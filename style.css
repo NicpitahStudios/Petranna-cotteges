@@ -49,7 +49,7 @@ p{
 .header_image{
   width: 100vw;
   height: 50vw;
-  background-image: url("../images/background.jpg");
+  background-image: url("background.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
