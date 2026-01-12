@@ -1,0 +1,87 @@
+body{
+  margin: 0px;
+}
+
+button{
+  width: 20vw;
+  height: 7.5vh;
+  font-size: 2rem;
+  border-radius: 25px;
+  background-color: #006500ff;
+  color: white;
+  cursor: pointer;
+}
+
+h1, th{
+  font-size: 3rem;
+  margin: 1vw;
+}
+
+p{
+  font-size: 2rem;
+  margin: 1vw;
+}
+
+.logo{
+  width: 28vw;
+  height: 25vw;
+  box-shadow: 0px 7px 10px rgba(0,0,0,1);
+  border-radius: 100%;
+}
+
+.product_bar{
+  width: 100%;
+  background-color: #2f2f2fff;
+  font-size: 2rem;
+  color: #ffffffff;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 2vw;
+}
+
+.product_bar_cell{
+  width: 25vw;
+  height: 10vw;
+  text-align: center;
+  border-right: solid 5px #ffffffff;
+}
+
+.header_image{
+  width: 100vw;
+  height: 50vw;
+  background-image: url("../images/background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+  align-content: flex-end;
+}
+
+.card{
+  width: 35vw;
+  height: 25vw;
+  background-color: #ffffffff;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  box-shadow: 0px 7px 10px rgba(0,0,0,1);
+  display: grid;
+  text-align: center;
+}
+
+.product_image{
+  width: 40vw;
+  background-color: #2f2f2fff;
+}
+
+.product_image_cell{
+  width: 50vw;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.product_text_cell{
+  text-align: left;
+  vertical-align: middle;
+  height: 50vh;
+}
+
