@@ -1,2 +1,2 @@
-# Petranna-cotteges
-A website for Petranna Cotteges made by Nicpitah Studios
+# Petranna-cottages
+A website for Petranna Cottages made by Nicpitah Studios
