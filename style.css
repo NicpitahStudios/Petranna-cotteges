@@ -44,6 +44,11 @@ p{
   margin-left: 2vw;
 }
 
+.product{
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
 .selected_product{
   width: 20vw;
   height: 10vw;
